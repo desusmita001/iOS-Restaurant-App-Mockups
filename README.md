@@ -26,4 +26,5 @@ and all image rights remain with their respective owners.
 Copyright © 2026 Susmita De
 
 This repository is provided for learning and reference purposes only.  
-Commercial use is not permitted without prior written consent.
+Unauthorized copying, modification, or distribution without prior written permission is prohibited.  
+Commercial use is not permitted without explicit written consent from the author.
