@@ -21,3 +21,9 @@ Some images and thumbnails used in this project are sourced from
 These images are used **solely for UI demonstration and development purposes** 
 in this repository. This project is not intended for commercial distribution, 
 and all image rights remain with their respective owners.
+
+
+Copyright © 2026 Susmita De
+
+This repository is provided for learning and reference purposes only.  
+Commercial use is not permitted without prior written consent.
