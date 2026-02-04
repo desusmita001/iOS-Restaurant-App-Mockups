@@ -6,7 +6,7 @@ A production-ready iOS app for a restaurant, built with **Swift** and **SwiftUI*
 ## App Mockup
 
 ![App Mockup](https://github.com/desusmita001/iOS-Restaurant-App/blob/main/screenshots/mockup2.png)
-![App Mockup](https://github.com/desusmita001/iOS-Restaurant-App/blob/main/screenshots/architecture.png)
+<!-- ![App Mockup](https://github.com/desusmita001/iOS-Restaurant-App/blob/main/screenshots/architecture.png) -->
 
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange)
 ![iOS](https://img.shields.io/badge/iOS-17-blue)
